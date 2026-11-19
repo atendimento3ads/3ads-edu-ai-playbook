@@ -9,6 +9,8 @@ Playbook de Inteligência Artificial da 3ADS EDU, publicado como página estáti
 ```
 .
 ├── index.html   # Playbook completo (arquivo único, autocontido)
+├── audio/
+│   └── orbe-inicio.m4a  # Narração + música da apresentação do Orbe (38 s)
 ├── .nojekyll    # Publica no GitHub Pages sem processamento Jekyll
 └── README.md
 ```
@@ -16,6 +18,8 @@ Playbook de Inteligência Artificial da 3ADS EDU, publicado como página estáti
 ## Como visualizar localmente
 
 Abra `index.html` direto no navegador. A página precisa de JavaScript habilitado.
+
+Para a narração do Orbe tocar, a pasta `audio/` precisa estar ao lado do `index.html`. Para trocar o áudio, substitua `audio/orbe-inicio.m4a` mantendo o mesmo nome. As legendas seguem os tempos da narração atual (começa em 1,2 s).
 
 ## Publicação
 
