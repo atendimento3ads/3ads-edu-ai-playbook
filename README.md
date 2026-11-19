@@ -11,6 +11,7 @@ Playbook de Inteligência Artificial da 3ADS EDU, publicado como página estáti
 ├── index.html   # Playbook completo (arquivo único, autocontido)
 ├── audio/
 │   └── orbe-inicio.m4a  # Narração + música da apresentação do Orbe (38 s)
+├── favicon.ico, favicon-32.png, favicon-512.png, apple-touch-icon.png  # Ícone do site ("3" da 3ADS)
 ├── .nojekyll    # Publica no GitHub Pages sem processamento Jekyll
 └── README.md
 ```
